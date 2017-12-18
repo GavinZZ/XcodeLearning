@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Memorable Places/ViewController.swift"
+            timestampString = "532996188.082764"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "longpress(gestureRecognizer:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Memorable_Places.ViewController.longpress(gestureRecognizer: __ObjC.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "Memorable Places"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wm1/Desktop/Gavin&apos;s%20Folder/Xcode/Memorable%20Places/Memorable%20Places/ViewController.swift"
+                  timestampString = "532996188.275709"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__ObjC.CLPlacemark&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Memorable_Places.ViewController.longpress(gestureRecognizer: __ObjC.UIGestureRecognizer) -&gt; ()"
+                  moduleName = "Memorable Places"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wm1/Desktop/Gavin&apos;s%20Folder/Xcode/Memorable%20Places/Memorable%20Places/ViewController.swift"
+                  timestampString = "532996188.278608"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "4521">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
