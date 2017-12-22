@@ -10,8 +10,11 @@
 import UIKit
 import Parse
 import SwiftMailgun
+import AccountKit
 
 class ViewController: UIViewController, UITextFieldDelegate {
+    
+    
     
     @IBAction func forgot(_ sender: Any) {
     }
@@ -236,7 +239,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         if (signUpMode) {
             
             nickname.isHidden = true
-            
+           
             forgotLabel.isHidden = false
             
             signUpMode = false
